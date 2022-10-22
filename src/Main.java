@@ -26,8 +26,4 @@ public class Main {
         System.out.println("The sum is : " + sum);
         scanner.close();
     }
-
-
-
-
 }
